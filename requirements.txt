@@ -1,6 +1,6 @@
 fastapi==0.115.6
 uvicorn[standard]==0.34.0
-python-multipart==0.0.20
+python-multipart==0.0.31
 ffmpeg-python==0.2.0
 faster-whisper==1.0.3
 torch==2.5.1
