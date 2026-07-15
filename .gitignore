@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+storage/uploads/*
+storage/transcripts/*
+storage/reports/*
+!storage/uploads/.gitkeep
+!storage/transcripts/.gitkeep
+!storage/reports/.gitkeep
+vector_store/*
+!vector_store/.gitkeep
+node_modules/
+frontend/dist/
+.env
+frontend/.env
