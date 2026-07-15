@@ -3,7 +3,7 @@ uvicorn[standard]==0.34.0
 python-multipart==0.0.20
 ffmpeg-python==0.2.0
 faster-whisper==1.0.3
-torch==2.5.1
+torch==2.12.1
 torchaudio==2.5.1
 pyannote.audio==3.3.2
 faiss-cpu==1.9.0
